@@ -1,6 +1,7 @@
 # food_app
 
 Food App UI
+Design Credit - https://dribbble.com/shots/6914808-Food-App-Main-page/attachments
 
 ## Getting Started
 
